@@ -10,5 +10,7 @@
 //#define _USE_HW_GPIO
 #define      HW_GPIO_MAX_CH         4
 
+#define _USE_HW_UART
+#define      HW_UART_MAX_CH         1
 
 #endif /* MAIN_HW_HW_DEF_H_ */

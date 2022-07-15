@@ -12,6 +12,11 @@
 #define _DEF_LED2             1
 #define _DEF_LED3             2
 
+
+#define _DEF_UART1            0
+#define _DEF_UART2            1
+
+
 #define _DEF_INPUT            0
 #define _DEF_INPUT_PULLUP     1
 #define _DEF_INPUT_PULLDOWN   2

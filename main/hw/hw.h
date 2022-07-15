@@ -9,6 +9,7 @@ extern "C" {
 
 #include "gpio.h"
 #include "led.h"
+#include "uart.h"
 
 bool hwInit();
 
